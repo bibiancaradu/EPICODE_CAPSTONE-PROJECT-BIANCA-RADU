@@ -1,5 +1,5 @@
 # EPICODE_CAPSTONE-PROJECT-BIANCA-RADU
-Moda al bivio: Fast Fashion vs Sostenibilità nei consumi italiani
+Moda al bivio: Fast Fashion vs Sostenibilità
 ## Descrizione:
 Questo progetto analizza i cambiamenti nei comportamenti di acquisto degli italiani nel settore della moda, mettendo a confronto l’impatto del **fast fashion** con la crescente attenzione verso la **moda sostenibile**.  L'obiettivo è individuare tendenze geografiche, generazionali e socioeconomiche che influenzano le scelte dei consumatori negli ultimi anni.
 ## Obiettivi:
