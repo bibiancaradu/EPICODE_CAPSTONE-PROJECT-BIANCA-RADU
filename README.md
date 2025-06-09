@@ -1,23 +1,22 @@
 # EPICODE_CAPSTONE-PROJECT-BIANCA-RADU
-Moda al bivio: Fast Fashion vs Sostenibilità
-## Descrizione:
-Questo progetto analizza i cambiamenti nei comportamenti di acquisto degli italiani nel settore della moda, mettendo a confronto l’impatto del **fast fashion** con la crescente attenzione verso la **moda sostenibile**.  L'obiettivo è individuare tendenze geografiche, generazionali e socioeconomiche che influenzano le scelte dei consumatori negli ultimi anni.
+Fast Fashion vs Sostenibilità
+## Overview
+This project explores changing consumer behavior in the fashion industry across Europe, focusing on the contrast between fast fashion and the rising interest in sustainable fashion.
 ## Obiettivi:
-- Analizzare l’evoluzione delle spese delle famiglie italiane nel settore moda.
-- Monitorare l’interesse online verso la moda sostenibile tramite Google Trends.
-- Confrontare fast fashion e moda sostenibile in termini di diffusione e percezione.
-- Visualizzare i risultati attraverso una dashboard interattiva.
-## Tecnologie
+- Analyze household fashion spending trends over time
+- Track online interest in sustainable fashion (via Google Trends)
+- Compare fast fashion and slow fashion in terms of reach and perception
+- Present insights through an interactive Power BI dashboard
+## Technologies Used
 - Python (Jupyter Notebook)
-- Pandas, Seaborn, Plotly
-- SQL
+- Pandas, Seaborn
 - PyTrends (Google Trends API)
-- Power BI (per la dashboard finale)
-## Output atteso
-Una dashboard interattiva che mostra:
-- Trend temporali della spesa per abbigliamento
-- Interesse per la moda sostenibile per area geografica
-- Confronto tra fast fashion e slow fashion
-## Note finali:
-Questo progetto può essere uno strumento per osservare come sta cambiando il settore moda in Italia dal punto di vista dei consumi, e fornire insight utili anche per startup o aziende interessate alla transizione verso modelli più sostenibili.
+- Power BI
+## Deliverables
+An interactive dashboard displaying:
+- Fashion spending trends
+- Regional interest in sustainable fashion
+- Fast fashion vs. sustainable fashion comparisons
+## Purpose
+This project provides insights into the evolving European fashion landscape and can inform companies or startups aiming to shift toward more sustainable business models.
 
